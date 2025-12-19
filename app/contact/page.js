@@ -24,7 +24,7 @@ export default function Home() {
             href="/"
             className="text-[40px] font-bold text-white hover:text-black"
           >
-            ← Home
+            ← Home2
           </Link>
         </div>
 
