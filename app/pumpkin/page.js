@@ -29,7 +29,7 @@ export default function Cream() {
   return (
     <div className="size-full flex-1 flex flex-col items-center">
       <h1 className="font-bold pt-[30px] pl-[30px] text-[50px] w-full text-left">
-        Bell Peppers in stock
+        Pumpkins in stock
       </h1>
 
       <div className="grid grid-cols-2 pr-80 gap-x-75 gap-y-8 mt-10">
